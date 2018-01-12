@@ -1,1 +1,9 @@
 # InvestiGate
+InvestiGate [IVG] Whitepaper
+A new, incentivized research economy for scientists and investors.
+Crowdfunded Research. Decentralized Publications. Direct Payment to Scientists and Investors. 
+
+Abstract:
+The current business models surrounding scientific research are flawed. Small, independent research groups are unable to obtain the funding to carry out necessary experiments or publish their results. This restricts the motivated scientists involved, and discourages innovative individuals from the field. 
+Scientists operate in a pay-to-publish system in which journals actually charge scientists to publish papers. In addition, the current models do not in any way allow scientists to directly capitalize off their work once published. Instead, all profits go directly to the handful of financial institutions and journals that act as the gatekeepers of all information to the scientific community. This manner of allocating funds and publishing results is prone to manipulation and censorship, and it inevitably leads to the special interests of the financial institutions and journals dictating the direction of research and controlling the access to information.
+InvestiGate [$IVG] seeks to act as an alternative model to the traditional, centralized manner of acquiring funding and publishing results for research. Through creation and implementation of a tokenized global research economy, all scientists may be rewarded in proportion to the impact factor of their work as determined by the open market. Scalable smart contracts would allow for any size project – from an individual researcher to a large-scale industrial research group – to create unique ViewKeys and CitationTokens able to be bought and sold to generate the necessary capital to fund the project and be fairly compensated if successful. 
